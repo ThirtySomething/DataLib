@@ -26,7 +26,7 @@ TEST_LIST = {
     {"int8_t", t_parameterdata_i8},
     {"uint8_t", t_parameterdata_ui8},
     //--------------------------------------------------------------------------
-    // Test of 1 byte storage
+    // Test of 2 byte storage
     {"int16_t", t_parameterdata_i16},
     {"uint16_t", t_parameterdata_ui16},
     //--------------------------------------------------------------------------
